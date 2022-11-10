@@ -11,7 +11,7 @@ Tutorial HTML CSS Javascript to make a website with darkmode and lightmode featu
 
 ## Run Locally
 
-double click index.html and see in the window browser
+double click index.html and see in the browser window
 
 
 ## Youtube Channel
